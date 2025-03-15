@@ -1,4 +1,5 @@
 d# 2D_PBC
+This is a python abaqus script for generating two dimensional periodic boundary condition in representative volume element.
 It is a Abaqus python script for two dimensional composite structure with one matrix and one inclusion component.
 
 This code requires some manual input to assign the section and create the boundary conditions and loading Step. 
